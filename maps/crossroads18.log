@@ -1,0 +1,1489 @@
+
+
+
+materialPath: C:\Games\steamapps\common\dayofinfamy\doi\materials
+Loading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.vmf
+Map revision 163
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_A, using default
+Patching WVT material: maps/crossroads18/brick/hr_brick/venice/brick_ground_a_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (24288 bytes)
+Error! To use model "models/characters/american/player_american_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_01.mdl"!
+Placing detail props : 0...1...2...3Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+4Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+5Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+6Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+7Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+8Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+9Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_02 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+.Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+Material MAPS/CROSSROADS/MUD_BLEND_01 uses unknown detail object type af_soil_dry!
+.10
+Compacting texture/material tables...
+Reduced 932 texinfos to 296
+Reduced 40 texdatas to 33 (2032 bytes to 1632)
+Writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+6 seconds elapsed
+
+
+
+12 threads
+reading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+reading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.prt
+ 314 portalclusters
+ 928 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 62 visible clusters (0.00%)
+Total clusters visible: 75582
+Average clusters visible: 240
+Building PAS...
+Average clusters audible: 314
+visdatasize:27691  compressed from 25120
+writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+Loaded alpha texture materials\models\foliage\p3d_small_leaves.vtf
+
+
+
+materialPath: C:\Games\steamapps\common\dayofinfamy\doi\materials
+Loading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.vmf
+Map revision 163
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_A, using default
+Patching WVT material: maps/crossroads18/brick/hr_brick/venice/brick_ground_a_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (24288 bytes)
+Error! To use model "models/characters/american/player_american_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 932 texinfos to 296
+Reduced 40 texdatas to 33 (2032 bytes to 1632)
+Writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+reading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.prt
+ 314 portalclusters
+ 928 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 62 visible clusters (0.00%)
+Total clusters visible: 75582
+Average clusters visible: 240
+Building PAS...
+Average clusters audible: 314
+visdatasize:27691  compressed from 25120
+writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+Loaded alpha texture materials\models\foliage\p3d_small_leaves.vtf
+1473 faces
+1451340 square feet [208992960.00 square inches]
+1022 Displacements
+757487 Square Feet [109078176.00 Square Inches]
+1473 patches before subdivision
+63623 patches after subdivision
+2 direct lights
+0...1...2...3...4.
+
+
+materialPath: C:\Games\steamapps\common\dayofinfamy\doi\materials
+Loading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.vmf
+Map revision 167
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_A, using default
+Patching WVT material: maps/crossroads18/brick/hr_brick/venice/brick_ground_a_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (25904 bytes)
+Error! To use model "models/characters/american/player_american_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 959 texinfos to 311
+Reduced 43 texdatas to 36 (2193 bytes to 1793)
+Writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+reading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.prt
+ 314 portalclusters
+ 928 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3829 visible clusters (0.00%)
+Total clusters visible: 88241
+Average clusters visible: 281
+Building PAS...
+Average clusters audible: 314
+visdatasize:27712  compressed from 25120
+writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+1496 faces
+1451429 square feet [209005808.00 square inches]
+1025 Displacements
+757812 Square Feet [109125024.00 Square Inches]
+1496 patches before subdivision
+63648 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1147947, max 512
+transfer lists:   8.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2081, 1596, 1005)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(41, 31, 18)
+Build Patch/Sample Hash Table(s).....Done<0.0228 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 94/8192         1128/98304    ( 1.1%) 
+brushsides             648/65536        5184/524288   ( 1.0%) 
+planes                2396/65536       47920/1310720  ( 3.7%) 
+vertexes              2114/65536       25368/786432   ( 3.2%) 
+nodes                  633/65536       20256/2097152  ( 1.0%) 
+texinfos               311/12288       22392/884736   ( 2.5%) 
+texdata                 36/2048         1152/65536    ( 1.8%) 
+dispinfos             1025/0          180400/0        ( 0.0%) 
+disp_verts           82521/0         1650420/0        ( 0.0%) 
+disp_tris           130336/0          260672/0        ( 0.0%) 
+disp_multiblend        972/0           77760/0        ( 0.0%) 
+disp_lmsamples     2155268/0         2155268/0        ( 0.0%) 
+faces                 1496/65536       83776/3670016  ( 2.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1148/65536       64288/3670016  ( 1.8%) 
+facebrushes              8/0              16/0        ( 0.0%) 
+facebrushlists        1496/0            5984/0        ( 0.0%) 
+leaves                 635/65536       20320/2097152  ( 1.0%) 
+leaffaces              521/65536        1042/131072   ( 0.8%) 
+leafbrushes            469/65536         938/131072   ( 0.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            10737/512000      42948/2048000  ( 2.1%) 
+edges                 6063/256000      24252/1024000  ( 2.4%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips             29/32768         290/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           426/65536         852/131072   ( 0.7%) 
+cubemapsamples          36/1024          576/16384    ( 3.5%) 
+overlays                 5/1024         1760/360448   ( 0.5%) 
+LDR lightdata         [variable]    11526200/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       27712/16777216 ( 0.2%) 
+entdata               [variable]       10554/393216   ( 2.7%) 
+LDR ambient table      635/65536        2540/262144   ( 1.0%) 
+HDR ambient table      635/65536        2540/262144   ( 1.0%) 
+LDR leaf ambient      4186/65536      117208/1835008  ( 6.4%) 
+HDR leaf ambient       635/65536       17780/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/16244    ( 0.0%) 
+pakfile               [variable]       10789/0        ( 0.0%) 
+physics               [variable]       25904/4194304  ( 0.6%) 
+physics terrain       [variable]      341929/1048576  (32.6%) 
+
+Level flags = 4
+
+Total triangle count: 3153
+Writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+33 seconds elapsed
+
+
+
+materialPath: C:\Games\steamapps\common\dayofinfamy\doi\materials
+Loading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.vmf
+Map revision 170
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_A, using default
+Patching WVT material: maps/crossroads18/brick/hr_brick/venice/brick_ground_a_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (25904 bytes)
+Error! To use model "models/characters/american/player_american_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 959 texinfos to 311
+Reduced 43 texdatas to 36 (2193 bytes to 1793)
+Writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+reading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.prt
+ 314 portalclusters
+ 928 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3829 visible clusters (0.00%)
+Total clusters visible: 88241
+Average clusters visible: 281
+Building PAS...
+Average clusters audible: 314
+visdatasize:27712  compressed from 25120
+writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+1496 faces
+1451429 square feet [209005808.00 square inches]
+1025 Displacements
+757812 Square Feet [109125024.00 Square Inches]
+1496 patches before subdivision
+63648 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1177528, max 515
+transfer lists:   9.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3835, 2692, 1548)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(70, 47, 26)
+Build Patch/Sample Hash Table(s).....Done<0.0336 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 94/8192         1128/98304    ( 1.1%) 
+brushsides             648/65536        5184/524288   ( 1.0%) 
+planes                2396/65536       47920/1310720  ( 3.7%) 
+vertexes              2114/65536       25368/786432   ( 3.2%) 
+nodes                  633/65536       20256/2097152  ( 1.0%) 
+texinfos               311/12288       22392/884736   ( 2.5%) 
+texdata                 36/2048         1152/65536    ( 1.8%) 
+dispinfos             1025/0          180400/0        ( 0.0%) 
+disp_verts           82521/0         1650420/0        ( 0.0%) 
+disp_tris           130336/0          260672/0        ( 0.0%) 
+disp_multiblend        972/0           77760/0        ( 0.0%) 
+disp_lmsamples     2155268/0         2155268/0        ( 0.0%) 
+faces                 1496/65536       83776/3670016  ( 2.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1148/65536       64288/3670016  ( 1.8%) 
+facebrushes              8/0              16/0        ( 0.0%) 
+facebrushlists        1496/0            5984/0        ( 0.0%) 
+leaves                 635/65536       20320/2097152  ( 1.0%) 
+leaffaces              521/65536        1042/131072   ( 0.8%) 
+leafbrushes            469/65536         938/131072   ( 0.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            10737/512000      42948/2048000  ( 2.1%) 
+edges                 6063/256000      24252/1024000  ( 2.4%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips             29/32768         290/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           426/65536         852/131072   ( 0.7%) 
+cubemapsamples          36/1024          576/16384    ( 3.5%) 
+overlays                 5/1024         1760/360448   ( 0.5%) 
+LDR lightdata         [variable]    11526200/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       27712/16777216 ( 0.2%) 
+entdata               [variable]       12026/393216   ( 3.1%) 
+LDR ambient table      635/65536        2540/262144   ( 1.0%) 
+HDR ambient table      635/65536        2540/262144   ( 1.0%) 
+LDR leaf ambient      4194/65536      117432/1835008  ( 6.4%) 
+HDR leaf ambient       635/65536       17780/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15484    ( 0.0%) 
+pakfile               [variable]       10789/0        ( 0.0%) 
+physics               [variable]       25904/4194304  ( 0.6%) 
+physics terrain       [variable]      341929/1048576  (32.6%) 
+
+Level flags = 4
+
+Total triangle count: 3153
+Writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+32 seconds elapsed
+
+
+
+materialPath: C:\Games\steamapps\common\dayofinfamy\doi\materials
+Loading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.vmf
+Map revision 172
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_A, using default
+Patching WVT material: maps/crossroads18/brick/hr_brick/venice/brick_ground_a_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (25904 bytes)
+Error! To use model "models/characters/american/player_american_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 959 texinfos to 311
+Reduced 43 texdatas to 36 (2193 bytes to 1793)
+Writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+reading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.prt
+ 314 portalclusters
+ 928 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3829 visible clusters (0.00%)
+Total clusters visible: 88241
+Average clusters visible: 281
+Building PAS...
+Average clusters audible: 314
+visdatasize:27712  compressed from 25120
+writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+1496 faces
+1451429 square feet [209005808.00 square inches]
+1025 Displacements
+757812 Square Feet [109125024.00 Square Inches]
+1496 patches before subdivision
+63648 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1177528, max 515
+transfer lists:   9.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3835, 2692, 1548)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(70, 47, 26)
+Build Patch/Sample Hash Table(s).....Done<0.0317 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 94/8192         1128/98304    ( 1.1%) 
+brushsides             648/65536        5184/524288   ( 1.0%) 
+planes                2396/65536       47920/1310720  ( 3.7%) 
+vertexes              2114/65536       25368/786432   ( 3.2%) 
+nodes                  633/65536       20256/2097152  ( 1.0%) 
+texinfos               311/12288       22392/884736   ( 2.5%) 
+texdata                 36/2048         1152/65536    ( 1.8%) 
+dispinfos             1025/0          180400/0        ( 0.0%) 
+disp_verts           82521/0         1650420/0        ( 0.0%) 
+disp_tris           130336/0          260672/0        ( 0.0%) 
+disp_multiblend        972/0           77760/0        ( 0.0%) 
+disp_lmsamples     2155268/0         2155268/0        ( 0.0%) 
+faces                 1496/65536       83776/3670016  ( 2.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1148/65536       64288/3670016  ( 1.8%) 
+facebrushes              8/0              16/0        ( 0.0%) 
+facebrushlists        1496/0            5984/0        ( 0.0%) 
+leaves                 635/65536       20320/2097152  ( 1.0%) 
+leaffaces              521/65536        1042/131072   ( 0.8%) 
+leafbrushes            469/65536         938/131072   ( 0.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            10737/512000      42948/2048000  ( 2.1%) 
+edges                 6063/256000      24252/1024000  ( 2.4%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips             29/32768         290/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           426/65536         852/131072   ( 0.7%) 
+cubemapsamples          36/1024          576/16384    ( 3.5%) 
+overlays                 5/1024         1760/360448   ( 0.5%) 
+LDR lightdata         [variable]    11526200/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       27712/16777216 ( 0.2%) 
+entdata               [variable]       12655/393216   ( 3.2%) 
+LDR ambient table      635/65536        2540/262144   ( 1.0%) 
+HDR ambient table      635/65536        2540/262144   ( 1.0%) 
+LDR leaf ambient      4194/65536      117432/1835008  ( 6.4%) 
+HDR leaf ambient       635/65536       17780/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15484    ( 0.0%) 
+pakfile               [variable]       10789/0        ( 0.0%) 
+physics               [variable]       25904/4194304  ( 0.6%) 
+physics terrain       [variable]      341929/1048576  (32.6%) 
+
+Level flags = 4
+
+Total triangle count: 3153
+Writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads18.bsp
+32 seconds elapsed

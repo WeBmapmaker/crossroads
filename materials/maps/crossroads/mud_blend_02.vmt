@@ -1,0 +1,20 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "ground/hr_g/hr_gravel_002_color"
+	"$bumpmap" "terrain/doi_gravel_01_n"
+	"$surfaceprop" "gravel"
+	
+	"$basetexture2"	"maps/terrain/ch_mud_02"
+	"$bumpmap2"	"maps/terrain/ch_mud_02_normal"
+	"$detail2"             		  "asphalt/hr_c/hr_asphalt_001_detail"
+	"$detailscale2"      	                  ".15"
+	"$detailblendfactor2"  	  "0.5"
+	"$surfaceprop2"                          "dirt"
+	
+
+	"$blendmodulatetexture"	"maps/terrain/doi_terrain_mod"
+
+	"%keywords" "doi, mud, blend, crossroads, road" 
+
+	
+}

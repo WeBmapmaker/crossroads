@@ -1,0 +1,131 @@
+
+
+
+materialPath: C:\Games\steamapps\common\dayofinfamy\doi\materials
+Loading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads20.vmf
+Map revision 197
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_A, using default
+Patching WVT material: maps/crossroads20/maps/crossroads/mud_blend_01_wvt_patch
+Patching WVT material: maps/crossroads20/brick/hr_brick/venice/brick_ground_a_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads20.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (30448 bytes)
+Error! To use model "models/characters/american/player_american_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1200 texinfos to 407
+Reduced 45 texdatas to 37 (2281 bytes to 1821)
+Writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads20.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads20.bsp
+reading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads20.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads20.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads20.bsp
+2354 faces
+2141377 square feet [308358336.00 square inches]
+1775 Displacements
+912062 Square Feet [131337032.00 Square Inches]
+2354 patches before subdivision
+120738 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3451045, max 615
+transfer lists:  26.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(16792, 12506, 8131)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(697, 450, 232)
+Build Patch/Sample Hash Table(s).....Done<63622.7797 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                103/8192         1236/98304    ( 1.3%) 
+brushsides             716/65536        5728/524288   ( 1.1%) 
+planes                2972/65536       59440/1310720  ( 4.5%) 
+vertexes              3191/65536       38292/786432   ( 4.9%) 
+nodes                  786/65536       25152/2097152  ( 1.2%) 
+texinfos               407/12288       29304/884736   ( 3.3%) 
+texdata                 37/2048         1184/65536    ( 1.8%) 
+dispinfos             1775/0          312400/0        ( 0.0%) 
+disp_verts          108775/0         2175500/0        ( 0.0%) 
+disp_tris           167200/0          334400/0        ( 0.0%) 
+disp_multiblend        972/0           77760/0        ( 0.0%) 
+disp_lmsamples     4167172/0         4167172/0        ( 0.0%) 
+faces                 2354/65536      131824/3670016  ( 3.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1904/65536      106624/3670016  ( 2.9%) 
+facebrushes              8/0              16/0        ( 0.0%) 
+facebrushlists        2354/0            9416/0        ( 0.0%) 
+leaves                 788/65536       25216/2097152  ( 1.2%) 
+leaffaces              630/65536        1260/131072   ( 1.0%) 
+leafbrushes            594/65536        1188/131072   ( 0.9%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            17198/512000      68792/2048000  ( 3.4%) 
+edges                 9706/256000      38824/1024000  ( 3.8%) 
+LDR worldlights          3/8192          300/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips             25/32768         250/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           396/65536         792/131072   ( 0.6%) 
+cubemapsamples          36/1024          576/16384    ( 3.5%) 
+overlays                 5/1024         1760/360448   ( 0.5%) 
+LDR lightdata         [variable]    21582520/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]       13988/393216   ( 3.6%) 
+LDR ambient table      788/65536        3152/262144   ( 1.2%) 
+HDR ambient table      788/65536        3152/262144   ( 1.2%) 
+LDR leaf ambient      4371/65536      122388/1835008  ( 6.7%) 
+HDR leaf ambient       788/65536       22064/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15456    ( 0.0%) 
+pakfile               [variable]       11418/0        ( 0.0%) 
+physics               [variable]       30448/4194304  ( 0.7%) 
+physics terrain       [variable]      447871/1048576  (42.7%) 
+
+Level flags = 4
+
+Total triangle count: 4874
+Writing d:\sourceengine\dayofinfamy\mapsrc\crossroads\maps\crossroads20.bsp
+2 minutes, 45 seconds elapsed

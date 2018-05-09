@@ -1,0 +1,8 @@
+Crossroads
+- another DOi map
+==================
+
+* Band of Brothers inspiration
+* real size
+* full hdr compile
+* use an heightmap

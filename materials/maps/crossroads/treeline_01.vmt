@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "maps/crossroads/treeline_01"
+	"$translucent" 1
+	"%compilepassbullets" 1
+	"$nodecal" 1
+
+}
